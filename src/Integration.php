@@ -1,8 +1,10 @@
 <?php
 
-class Pronamic_WP_Pay_Gateways_ING_IDealInternetKassa_GatewayIntegration {
+class Pronamic_WP_Pay_Gateways_ING_IDealInternetKassa_Integration {
 	public function __construct() {
-		$this->id = 'ing-ideal-internetkassa';
+		$this->id       = 'ing-ideal-internetkassa';
+		$this->name     = 'ING - iDEAL Internet Kassa';
+		$this->provider = 'ing';
 	}
 
 	public function get_config_factory_class() {

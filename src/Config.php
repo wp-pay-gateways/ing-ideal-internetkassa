@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Title: ING - iDEAL Internet Kassa config
+ * Title: ING - iDEAL Internet Kassa - Config
  * Description:
  * Copyright: Copyright (c) 2005 - 2015
  * Company: Pronamic

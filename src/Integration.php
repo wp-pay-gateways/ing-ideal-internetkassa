@@ -13,6 +13,10 @@ class Pronamic_WP_Pay_Gateways_ING_IDealInternetKassa_Integration extends Pronam
 	public function __construct() {
 		$this->id       = 'ing-ideal-internetkassa';
 		$this->name     = 'ING - iDEAL Internet Kassa';
+		$this->dashboard_url = array(
+			'test' => 'https://twyp.secure-ing.com/ncol/test/backoffice',
+			'live' => 'https://twyp.secure-ing.com/ncol/prod/backoffice',
+		);
 		$this->provider = 'ing';
 	}
 

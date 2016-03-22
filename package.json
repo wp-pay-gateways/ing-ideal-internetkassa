@@ -1,7 +1,7 @@
 {
   "name": "ing-ideal-internetkassa",
   "version": "1.0.0",
-  "description": "ING - iDEAL Internet Kassa driver for the WordPress payment processing library.",
+  "description": "[DEPRECATED] ING - iDEAL Internet Kassa driver for the WordPress payment processing library.",
   "repository": {
     "type": "git",
     "url": "https://github.com/wp-pay-gateways/ing-ideal-internetkassa"
@@ -13,7 +13,8 @@
     "ideal",
     "basic",
     "gateway",
-    "pronamic"
+    "pronamic",
+    "deprecated"
   ],
   "author": {
     "name": "Pronamic",

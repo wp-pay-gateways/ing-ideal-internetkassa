@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: ING - iDEAL Internet Kassa
+# [DEPRECATED] WordPress Pay Gateway: ING - iDEAL Internet Kassa
 
 **ING - iDEAL Internet Kassa driver for the WordPress payment processing library.**
 
